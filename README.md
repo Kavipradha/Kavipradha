@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kavipradha
+- 👀 I’m interested in game devolaping
+- 🌱 I’m currently learning c++
+- ⚡ Fun fact: i havent devoloped any games yet im  still  learning
